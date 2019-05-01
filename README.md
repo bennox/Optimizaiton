@@ -32,4 +32,20 @@ The famous deep learning method that instead of calculating the gradient over th
 
 Some extensions of gradient descent to reduce variance. Algorithms SAG, SAGA, SVRG.
 
+# Project : Optimization strategies for anomaly detection with One class Support Vector Machines (OCSVM)
+
+
+## Objectives
+- Derive the dual for the one-class SVM model,
+
+- implement a one-class SVM using a blackbox convex toolbox (cvxopt in Python),
+
+- implement your own solvers with: Proximal gradient, Coordinate Descent, Quasi-Newton,
+
+- present a clear benchmark of the different strategies on small and medium scale datasets.
+
+
+## Authors
+Benoît-Marie ROBAGLIA (benoit-marie.robaglia@polytechnique.edu)
+
 
