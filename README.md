@@ -75,6 +75,13 @@ With a low correlation between the features, the deterministic solvers are more 
 
 - present a clear benchmark of the different strategies on small and medium scale datasets.
 
+![](figs/ocsvm.png)
+
+We tested the OCSVM on a synthetic blob dataset with a gaussian kernel and the l-bfgs optimizer :
+
+![](figs/ocsvm_lbfgs.png)
+
+![](figs/ocsvm_training.png)
 
 ## Author
 Benoît-Marie ROBAGLIA (benoit-marie.robaglia@polytechnique.edu)
